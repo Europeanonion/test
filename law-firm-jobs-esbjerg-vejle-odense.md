@@ -15,7 +15,7 @@ Status key: **Open** = a current deadline or rolling recruitment was found. **Ch
 | CLM Advokater | Advokat, insolvency department (Esbjerg) | Check | Found via Indeed.dk and Advojob; no deadline shown |
 | CLM Advokater | Legal assistant / process secretary, insolvency (Esbjerg or Kbh) | Expired, deadline 6 Mar 2026 | Contact: Rune Lorentzen, 4189 2752 |
 | CLM Advokater | Bookkeeper with compliance interest | Expired, deadline 6 Mar 2026 | |
-| Advokatfirmaet Knud Sander | Full-time secretary / legal assistant, immediate start | Check | ks@knudsander.dk · Dokken 16B, 6700 Esbjerg · [VORES By Esbjerg](https://voresbyesbjerg.dk/a/fuldtidssekretaer-soeges-til-advokatkontor-i-esbjerg-med-opstart-hurtigst-muligt/67542b50-666e-474f-8e6d-fa65ef6cc035) |
+| Advokatfirmaet Knud Sander | Full-time secretary / legal assistant, immediate start | Stale (ad from Oct 2024) | ks@knudsander.dk · Dokken 16B, 6700 Esbjerg · [VORES By Esbjerg](https://voresbyesbjerg.dk/a/fuldtidssekretaer-soeges-til-advokatkontor-i-esbjerg-med-opstart-hurtigst-muligt/67542b50-666e-474f-8e6d-fa65ef6cc035) |
 
 Advokatstillinger.dk reported [5 open positions in Esbjerg](https://www.advokatstillinger.dk/esbjerg). The site was blocked here, so it's worth checking by hand.
 
